@@ -1,0 +1,1 @@
+Der Durchschnitt von 10 und 23 ist <%= (10. + 23) / 2 %>.
